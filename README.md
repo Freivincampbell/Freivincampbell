@@ -8,7 +8,6 @@ I’m a software engineer, who really loves Open Source projects, and that is wh
 
 * 🌍  I'm based in Costa Rica
 * 🖥️  See my portfolio at [FreivinCampbell.github.io](http://freivincampbell.github.io)
-* 🚀  I'm currently working on [Nativo.la](http://nativo.la/)
 * 🧠  I'm learning Golang
 
 
